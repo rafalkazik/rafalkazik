@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafał</h1>
 <h3 align="center">I'm looking for my first job in frontend development.</h3>
-<p align="left"> Until now, I have worked as a lawyer. However, almost a year ago I decided that I wanted to go back to my passion which is frontend.</p>
+<p align="center"> Until now, I have worked as a lawyer. However, almost a year ago I decided that I wanted to go back to my passion which is frontend.</p>
 
 <h3 align="center">Check out some of my projects:</h3>
 <p align="center">
