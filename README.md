@@ -4,6 +4,7 @@
 
 <h3 align="center">Check out some of my projects:</h3>
 <p align="center">
+<a href="https://github.com/rafalkazik/React-product-app" target="blank">React product app</a></br>
 <a href="https://github.com/rafalkazik/React-Neumorphism-Form" target="blank">React Neumorphism Form</a></br>
 <a href="https://github.com/rafalkazik/React-Meeting-Calendar" target="blank">React Meeting Calendar</a></br>
 <a href="https://github.com/rafalkazik/free-legal-aid" target="blank">Legal aid searcher</a></br>
