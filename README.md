@@ -4,14 +4,8 @@
 
 <h3 align="center">Check out some of my projects:</h3>
 <p align="center">
+<a href="[https://github.com/rafalkazik/Asgolab-NextJS-page](https://github.com/rafalkazik/pagespeed-gpt)" target="blank">PageSpeed GPT</a></br>
 <a href="https://github.com/rafalkazik/Asgolab-NextJS-page" target="blank">ASGOLAB NextJS Page</a></br>
-<a href="https://github.com/rafalkazik/React-product-app" target="blank">React product app</a></br>
-<a href="https://github.com/rafalkazik/React-Neumorphism-Form" target="blank">React Neumorphism Form</a></br>
-<a href="https://github.com/rafalkazik/React-Meeting-Calendar" target="blank">React Meeting Calendar</a></br>
-<a href="https://github.com/rafalkazik/free-legal-aid" target="blank">Legal aid searcher</a></br>
-<a href="https://github.com/rafalkazik/github-repo-search" target="blank">Github API Repo Finder</a></br>
-<a href="https://github.com/rafalkazik/excursions-platform" target="blank">Excursion Platform</a></br>
-<a href="https://github.com/rafalkazik/Applab-RWD" target="blank">Applab Lending Page</a></br>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
