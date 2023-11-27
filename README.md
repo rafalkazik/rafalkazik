@@ -4,8 +4,9 @@
 
 <h3 align="center">Check out some of my projects:</h3>
 <p align="center">
-<a href="https://github.com/rafalkazik/pagespeed-gpt" target="blank">PageSpeed GPT</a></br>
+<a href="https://github.com/rafalkazik/react-native-jobs-app" target="blank">React Native Jobs App</a></br>
 <a href="https://github.com/rafalkazik/Asgolab-NextJS-page" target="blank">ASGOLAB NextJS Page</a></br>
+<a href="https://github.com/rafalkazik/pagespeed-gpt" target="blank">PageSpeed GPT</a></br>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
